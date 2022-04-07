@@ -1,0 +1,8 @@
+.nav__bar {
+  padding: 1rem 0;
+  background-color: grey;
+  color: white;
+}
+.nav__bar h2 {
+  text-align: center;
+}

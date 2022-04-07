@@ -1,0 +1,16 @@
+.home__main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 2rem 0;
+}
+.inc__dec {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inc__dec button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
